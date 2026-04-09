@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -
 - https://img.shields.io/badge/my-linkedin-blue
 
-- [![Icon of Linkedin]([https://img.shields.io/badge/my-linkedin-blue)](https://uca.edu/geography/)
+- [![Icon of Linkedin](https://img.shields.io/badge/my-linkedin-blue)](https://uca.edu/geography/)
