@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+-
 - https://img.shields.io/badge/my-linkedin-blue
 
-- [![Icon of Linkedin]([https://img.shields.io/badge/my-linkedin-blue](https://uca.edu/geography/)
+- [![Icon of Linkedin]([https://img.shields.io/badge/my-linkedin-blue)](https://uca.edu/geography/)
