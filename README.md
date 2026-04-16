@@ -12,15 +12,5 @@
 - 📓 Currently collaborating with the UCA Geography Department on geospatial solutions for environmental conservation and hydrography. My work focuses on leveraging LiDAR and Sonar data fusion to map complex lake topobathy and utilizing remote sensing to track protected wildlife habitats under the guidance of Dr. Wu. [![Icon of UCAGeography](https://img.shields.io/badge/UCA-Geography-blue)](https://uca.edu/geography/)
 - 📫 You can reach me via email at crobertson19@cub.uca.edu or christy.robertsonasub@gmail.com
 - 😄 My blogs can be found at [![Icon of MythologyTakeaway](https://img.shields.io/badge/Mythology-Takeaway-orange)](https://christystakeaway2.blogspot.com/) and [![Icon of MythologyTakeaway](https://img.shields.io/badge/American-Literature-pink)](https://christystakeaway.blogspot.com/)
--
 - <!--**https://img.shields.io/badge/Mythology-Takeaway-orange,**https://img.shields.io/badge/American-Literature-pink, **https://img.shields.io/badge/UCA-Geography-blue   -->
--
-- 
 
-- 
-
-- 
-
-- 
-
-- **[Geography Department UCA](https://uca.edu/geography/)
