@@ -19,11 +19,11 @@ Shorelines:
 - **Predictive Environmental Design:** Engineered a reproducible topobathymetric workflow blueprint to support habitat management, flood prediction, and erosion modeling.
    👉 **[![Icon of OvercupProjectVisual](https://img.shields.io/badge/Project-Visual-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Overcup%20Lake%20Topobathy%20Visual%20Presentation.pdf) [![Icon of OvercupProjectPaper](https://img.shields.io/badge/Project-Paper-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/A_Framework_for_Topobathymetric_Modeling_Overcup_Robertson.pdf)**
 
-### 2. Radial Analysis of Dam Land Cover by County  - Regional Radial Analysis of Critical Water Infrastructure
-**Advanced Geospatial Pipeline:** Engineered a data cleaning and processing pipeline in ArcGIS Pro to standardize coordinate planes, index fields, and clip statewide datasets from the Arkansas GIS Office.
-**Macro-Scale Spatial Analytics:** Conducted a regional assessment by establishing 5-mile proximity buffer zones around every dam in Arkansas, converting complex raster datasets into vector format for precise spatial analysis.
-**Zonal Statistical Modeling:** Developed automated workflows utilizing Tabulate Area and Zonal Statistics as Table to quantify, aggregate, and join localized land cover percentages to the county scale.
-**Data-Driven Infrastructure Insights:** Mapped and classified infrastructure-adjacent environments across all 75 counties, revealing critical environmental data patterns such as a 49% dominant forest cover surrounding the state's water infrastructure.
+### 2. Radial Analysis of Dam Land Cover by County  - Regional Radial Analysis of Critical Water Infrastructure: 
+- **Advanced Geospatial Pipeline:** Engineered a data cleaning and processing pipeline in ArcGIS Pro to standardize coordinate planes, index fields, and clip statewide datasets from the Arkansas GIS Office.
+- **Macro-Scale Spatial Analytics:** Conducted a regional assessment by establishing 5-mile proximity buffer zones around every dam in Arkansas, converting complex raster datasets into vector format for precise spatial analysis.
+- **Zonal Statistical Modeling:** Developed automated workflows utilizing Tabulate Area and Zonal Statistics as Table to quantify, aggregate, and join localized land cover percentages to the county scale.
+- **Data-Driven Infrastructure Insights:** Mapped and classified infrastructure-adjacent environments across all 75 counties, revealing critical environmental data patterns such as a 49% dominant forest cover surrounding the state's water infrastructure.
  👉 [![Icon of DamProjectVisuals](https://img.shields.io/badge/Project-Visual-yellow)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Radial%20Analysis%20of%20Dam%20Land%20Cover%20by%20County_Robertson%20Visual.pdf) [![Icon of DamProjectPaper](https://img.shields.io/badge/Project-Paper-yellow)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Radial%20Analysis%20of%20Dam%20Land%20Cover%20by%20County_Robertson.pdf)
 ---
 
