@@ -7,6 +7,7 @@
 - **Software & Platforms:** ArcGIS Pro, ERDAS Imagine, Python, Visual Studio Code, Anaconda Environments, MS Excel, MS Word
 - **Programming & Automation:** Python, Arcpy, Spatial Analysit Extension, Jupyter Notebooks
 - **Data Sourcing Experience:** USGS Earth Explorer, USGS LiDAR Explorer, Web Soil Survey, Arkansas GIS Office, Census, Arkansas Game and Fish Commission, European Space Agency's Copernicus Browser
+  
   ---
 ## 🚀 Featured Geospatial Projects
 ### 1. A Framework for Topobathymetric Modeling: LiDAR Processing and Sonar Integration Strategies for Overcup 
