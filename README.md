@@ -9,7 +9,7 @@
 - **Data Sourcing Experience:** USGS Earth Explorer, USGS LiDAR Explorer, Web Soil Survey, Arkansas GIS Office, Census, Arkansas Game and Fish Commission, European Space Agency's Copernicus Browser
   
   ---
-## 🚀 Featured Geospatial Projects
+## 🚀 Featured Geospatial Projects Conducted at UCA
 ### 1. A Framework for Topobathymetric Modeling: LiDAR Processing and Sonar Integration Strategies for Overcup 
 Lake, AR - Phase I: Terrestrial Modeling and Proposed Bathymetric Fusion of Overcup Lake 
 Shorelines: 
@@ -17,14 +17,31 @@ Shorelines:
 - **Large-Scale Data Engineering:** Filtered and synthesized over 105 million raw LiDAR points into sub-meter accurate 3D terrain and Hillshade models.
 - **Cross-Dataset Calibration:** Eliminated a critical shoreline "data gap" by calculating a baseline Z_min threshold of 85.66 to mathematically align terrestrial and aquatic grids.
 - **Predictive Environmental Design:** Engineered a reproducible topobathymetric workflow blueprint to support habitat management, flood prediction, and erosion modeling.
-  👉 **[![Icon of OvercupProjectVisual](https://img.shields.io/badge/Project-Visual-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Overcup%20Lake%20Topobathy%20Visual%20Presentation.pdf) [![Icon of OvercupProjectPaper](https://img.shields.io/badge/Project-Paper-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/A_Framework_for_Topobathymetric_Modeling_Overcup_Robertson.pdf)**
-  
-- ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee. 
-- 🌱 I’m currently working on my Bachelor of Science in Geography with a minor in Sociology at the University of Central Arkansas. 
-- 👯 I have a passion for Geospatial Technology, Geography, History and Society. 
+   👉 **[![Icon of OvercupProjectVisual](https://img.shields.io/badge/Project-Visual-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Overcup%20Lake%20Topobathy%20Visual%20Presentation.pdf) [![Icon of OvercupProjectPaper](https://img.shields.io/badge/Project-Paper-green)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/A_Framework_for_Topobathymetric_Modeling_Overcup_Robertson.pdf)**
+
+### 2. Radial Analysis of Dam Land Cover by County  - Regional Radial Analysis of Critical Water Infrastructure
+**Advanced Geospatial Pipeline:** Engineered a data cleaning and processing pipeline in ArcGIS Pro to standardize coordinate planes, index fields, and clip statewide datasets from the Arkansas GIS Office.
+**Macro-Scale Spatial Analytics:** Conducted a regional assessment by establishing 5-mile proximity buffer zones around every dam in Arkansas, converting complex raster datasets into vector format for precise spatial analysis.
+**Zonal Statistical Modeling:** Developed automated workflows utilizing Tabulate Area and Zonal Statistics as Table to quantify, aggregate, and join localized land cover percentages to the county scale.
+**Data-Driven Infrastructure Insights:** Mapped and classified infrastructure-adjacent environments across all 75 counties, revealing critical environmental data patterns such as a 49% dominant forest cover surrounding the state's water infrastructure.
+ 👉 [![Icon of DamProjectVisuals](https://img.shields.io/badge/Project-Visual-yellow)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Radial%20Analysis%20of%20Dam%20Land%20Cover%20by%20County_Robertson%20Visual.pdf) [![Icon of DamProjectPaper](https://img.shields.io/badge/Project-Paper-yellow)](https://github.com/crobertson19/UCA_GIS_Projects/blob/main/Radial%20Analysis%20of%20Dam%20Land%20Cover%20by%20County_Robertson.pdf)
+---
+
+##  📝 Research and Technical Writing 
+  - I  have a deep love for literature, and I find the written word to be one of humanities greatest advancements and tools, one that connects people through place and time. 
+*Beyond spatial data, I have a strong background in academic research, synthesis, and written communication.*
+
+
+---
+##  💼  Core Academic Focus & Collaboration
+I collaborate with the UCA Geography Department under the guidance of Dr. Wu, leveraging geospatial technology for environmental conservation, hydrography, and wildlife habitat tracking. [![Icon of UCAGeography](https://img.shields.io/badge/UCA-Geography-blue)](https://uca.edu/geography/)
+*🏕️ **Passions:** Geospatial Technology, Geography, History, and Society.
+* ✉️ **Contact:** email: christy.robertsonasub@gmail.com, cricketmist@yahoo.com, crobertson19@cub.uca.edu
+- ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee.
+      - Graduated May 2025 - GPA: 4.0, Phi Theta Kappa Honor Society 
+- 🌱 Currently in pursuit of my Bachelor of Science in Geography with a minor in Sociology at the University of Central Arkansas.
+      - Current Status: GPA: 3.909, 94/120 Credit Hours Completed, On Hold from May 2026 through Aug 2027. 
 - 🏕️ I love to travel, explore, and observe both the natural and social world around me.
-- 📓 Currently collaborating with the UCA Geography Department on geospatial solutions for environmental conservation and hydrography. My work focuses on leveraging LiDAR and Sonar data fusion to map complex lake topobathy and utilizing remote sensing to track protected wildlife habitats under the guidance of Dr. Wu. [![Icon of UCAGeography](https://img.shields.io/badge/UCA-Geography-blue)](https://uca.edu/geography/)
-- 📫 You can reach me via email at crobertson19@cub.uca.edu or christy.robertsonasub@gmail.com
 - 📘 I also have a deep love for literature, and I find the written word to be one of humanities greatest advancements and tools, one that connects people through place and time.
 - 😄 My blogs can be found at [![Icon of MythologyTakeaway](https://img.shields.io/badge/Mythology-Takeaway-orange)](https://christystakeaway2.blogspot.com/) and [![Icon of MythologyTakeaway](https://img.shields.io/badge/American-Literature-pink)](https://christystakeaway.blogspot.com/)
   <!--**https://img.shields.io/badge/Mythology-Takeaway-orange,**https://img.shields.io/badge/American-Literature-pink, **https://img.shields.io/badge/UCA-Geography-blue   -->
