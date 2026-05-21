@@ -32,25 +32,25 @@ Shorelines:
     *Beyond spatial data, I have a strong background in academic research, synthesis, and written communication.*
 
 
-### 📄 A Dual-Sensor UAS Approach to Wetland Restoration: Integrating Bathymetric and NIR LiDAR in the Mississippi River Valley
+### 1. A Dual-Sensor UAS Approach to Wetland Restoration: Integrating Bathymetric and NIR LiDAR in the Mississippi River Valley
 - **Institution:** University of Central Arkansas (Department of Geography) | May 2026
 -  **Abstract & Focus:** Developed an operational proposal targeting the Cache-Lower White River System. Designed a dual-pulse data capture framework using a 532nm green-spectrum laser for shallow aquatic penetration and a 1064nm NIR laser for forest canopy mapping.
 - **Key Methodologies:** Flight mechanics (60% side-lap paths), point-cloud filtering, and project economics/ROI modeling against regional ecosystem valuations ($37.4B).
  👉 [![Icon of Proposal](https://img.shields.io/badge/Read-Paper-yellowgreen)](https://github.com/crobertson19/Research_and_Technical_Writing/blob/main/A%20Dual-Sensor%20UAS%20Approach%20to%20Wetland%20Restoration_Robertson.pdf)
 
-### 📄 Geography as the Architect of the Soul: The Sherpa of Nepal vs the Wakhi of Afghanistan
+### 2. Geography as the Architect of the Soul: The Sherpa of Nepal vs the Wakhi of Afghanistan
 - **Institution:** University of Central Arkansas (Department of Geography) | April 2026
 - **Abstract & Focus:** Conducted a rigorous qualitative comparative case study analyzing how extreme vertical environments, altitudinal zonation, and extreme terrain verticality shape cultural identity, spiritual frameworks, and adaptive agropastoral or socioeconomic lifeways.
 - **Key Methodologies:** Regional cross-cultural synthesis, historical buffer-zone analysis, and human-environment interaction evaluation under shifting globalization and geopolitical pressures.
  👉 [![Icon of CaseStudy](https://img.shields.io/badge/Read-Paper-yellowgreen)](https://github.com/crobertson19/Research_and_Technical_Writing/blob/main/Geography%20as%20the%20Architect%20of%20the%20Soul_Robertson.pdf)
 
-### 📄 Selective Mutism: An Often-Undiagnosed Disorder
+### 3. Selective Mutism: An Often-Undiagnosed Disorder
 - **Institution:** Arkansas State University – Beebe (Department of Psychology) | November 2023
 - **Abstract & Focus:** Authored a comprehensive clinical literature review examining the diagnostic history, developmental epidemiology, and therapeutic frameworks of Selective Mutism as an involuntary anxiety response.
 - **Key Methodologies:** Historical etiology synthesis (evaluating psychodynamic, behavioral, and psychopathology frameworks), clinical symptom criteria mapping (DSM alignment/multimodal assessments), and qualitative behavioral observation tracking.
  👉 [![Icon of LitReview](https://img.shields.io/badge/Read-Paper-yellowgreen)](https://github.com/crobertson19/Research_and_Technical_Writing/blob/main/Selective%20Mutism%20An%20Often-Undiagnosed%20Disorder_Robertson.pdf)
 
-### 📄 The Painting of a Thousand Memories
+### 4. The Painting of a Thousand Memories
 - **Institution:** Arkansas State University – Beebe (Department of English) | September 2023
 - **Abstract & Focus:** A Personal Narrative: The world often confuses an object’s price tag with its actual significance. I look at this rudimentary, physically unfinished oil painting hanging in my home, and I know that a stranger or an art critic might dismiss it as cheap or technically imperfect. But to me, it is pure beauty and holds more value than a bar of gold, because its worth is entirely defined by the love, grief, and memories woven into its canvas.
 - **Key Methodologies:** Creative nonfiction prose, thematic pacing, descriptive emotional framing, and narrative-arc development.
@@ -66,9 +66,9 @@ I collaborate with the UCA Geography Department under the guidance of Dr. Wu, le
 - 🏕️ **Passions:** Geospatial Technology, Geography, History, and Society.
 - ✉️ **Contact:** email: cricketmist@yahoo.com, christy.robertsonasub@gmail.com, or crobertson19@cub.uca.edu
   
-- ## ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee.
+- # ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee.
       - Graduated May 2025 - GPA: 4.0, Phi Theta Kappa Honor Society 
-- ## 🌱 Currently in pursuit of my Bachelor of Science in Geography with a minor in Sociology at the University of Central Arkansas.
+- # 🌱 Currently in pursuit of my Bachelor of Science in Geography with a minor in Sociology at the University of Central Arkansas.
       - Current Status: GPA: 3.909, 94/120 Credit Hours Completed, On Hold from May 2026 through Aug 2027. 
 
 
