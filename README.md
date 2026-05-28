@@ -64,7 +64,7 @@ Shorelines:
 I collaborate with the UCA Geography Department under the guidance of Dr. Wu, leveraging geospatial technology for environmental conservation, hydrography, and wildlife habitat tracking. [![Icon of UCAGeography](https://img.shields.io/badge/UCA-Geography-blue)](https://uca.edu/geography/)
 
 - 🏕️ **Passions:** Geospatial Technology, Geography, History, and Society.
-- ✉️ **Contact:** email: cricketmist@yahoo.com, christy.robertsonasub@gmail.com, or crobertson19@cub.uca.edu
+- ✉️ **Contact:** email: crobertson.gis@gmail.com
   
 - ### ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee.
       - Graduated May 2025 - GPA: 4.0, Phi Theta Kappa Honor Society 
