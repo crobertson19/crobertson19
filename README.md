@@ -69,7 +69,7 @@ I collaborate with the UCA Geography Department under the guidance of Dr. Wu, le
 - ### ✉️ I recieved my Associate of Science Degree in Liberal Arts and Sciences with a foundation in Geography at Arkansas State University Bebee.
       - Graduated May 2025 - GPA: 4.0, Phi Theta Kappa Honor Society 
 - ### 🌱 Currently in pursuit of my Bachelor of Science in Geography with a minor in Sociology at the University of Central Arkansas.
-      - Current Status: GPA: 3.909, 94/120 Credit Hours Completed, On Hold from May 2026 through Aug 2027. 
+      - Current Status: GPA: 3.909, 94/120 Credit Hours Completed  
 
 
   <!--**https://img.shields.io/badge/Mythology-Takeaway-orange,**https://img.shields.io/badge/American-Literature-pink, **https://img.shields.io/badge/UCA-Geography-blue   -->
